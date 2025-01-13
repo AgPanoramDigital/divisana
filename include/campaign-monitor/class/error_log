@@ -1,0 +1,1 @@
+[03-Dec-2021 19:10:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; CS_REST_Log has a deprecated constructor in /home/panoramdigital/divisana.panoramdigital.com.br/include/campaign-monitor/class/log.php on line 7

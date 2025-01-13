@@ -1,0 +1,4 @@
+[03-Dec-2021 19:10:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/panoramdigital/divisana.panoramdigital.com.br/include/phpmailer/PHPMailerAutoload.php on line 45
+[03-Dec-2021 19:10:38 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/panoramdigital/divisana.panoramdigital.com.br/include/phpmailer/get_oauth_token.php on line 18
+[03-Dec-2021 19:10:38 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/panoramdigital/divisana.panoramdigital.com.br/include/phpmailer/get_oauth_token.php on line 18
+[03-Dec-2021 19:10:38 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/panoramdigital/divisana.panoramdigital.com.br/include/phpmailer/get_oauth_token.php on line 18

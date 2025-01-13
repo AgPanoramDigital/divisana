@@ -1,0 +1,1 @@
+[03-Dec-2021 19:10:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/panoramdigital/divisana.panoramdigital.com.br/include/phpmailer/PHPMailerAutoload.php on line 45
